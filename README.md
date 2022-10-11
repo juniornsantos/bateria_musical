@@ -1,6 +1,6 @@
 
 
-# Projeto  Relógio Analógico do curso B7Web
+# Projeto Bateria Acústica do curso B7Web
 Esta é a versão 1.0.0 do projeto de um Bateria Acústica feito no curso de JavaScript do curso  B7web. O Objetivo é "criar" uma bateria que emita sons e tenha a possibilidade de composição. 
 
 ## .PNG Exemplo
